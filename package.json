@@ -3,8 +3,9 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://hannahazan.github.io/get-on-your-apprenticeship",
+  "homepage": "https://hannahazan.github.io/Front-get-your-apprentice",
   "scripts": {
+    "start": "react-scripts start",
     "dev": "vite",
     "build": "react-scripts build",
     "lint": "eslint . --ext js,jsx --report-unused-disable-directives --max-warnings 0",
