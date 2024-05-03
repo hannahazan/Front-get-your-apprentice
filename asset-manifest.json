@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/Front-get-your-apprentice/static/css/main.85586422.css",
-    "main.js": "/Front-get-your-apprentice/static/js/main.8e861e18.js",
+    "main.js": "/Front-get-your-apprentice/static/js/main.0ab7bbfa.js",
     "static/media/movie-harry_potter-gryffindor-hufflepuff-ravenclaw_harry_potter-slytherin_harry_potter-396547.jpeg": "/Front-get-your-apprentice/static/media/movie-harry_potter-gryffindor-hufflepuff-ravenclaw_harry_potter-slytherin_harry_potter-396547.307c1dae082d2813e3fa.jpeg",
     "index.html": "/Front-get-your-apprentice/index.html",
     "main.85586422.css.map": "/Front-get-your-apprentice/static/css/main.85586422.css.map",
-    "main.8e861e18.js.map": "/Front-get-your-apprentice/static/js/main.8e861e18.js.map"
+    "main.0ab7bbfa.js.map": "/Front-get-your-apprentice/static/js/main.0ab7bbfa.js.map"
   },
   "entrypoints": [
     "static/css/main.85586422.css",
-    "static/js/main.8e861e18.js"
+    "static/js/main.0ab7bbfa.js"
   ]
 }
